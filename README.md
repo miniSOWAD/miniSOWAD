@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Yeamin-Talukder/Yeamin-Talukder/blob/main/Cover.gif?raw=true" alt="Cover Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdmahrufalam/mdmahrufalam/main/cover.gif" alt="Cover Banner" width="100%" />
 </p>
 
-<h1 align="center">Md Yeamin Talukder</h1>
+<h1 align="center">Md Mahruf Alam</h1>
 
 <p align="center">
   <b>Computer Science & Engineering Student</b><br/>
@@ -10,78 +10,115 @@
 </p>
 
 <p align="center">
-  Problem Solver • System Builder • Aspiring Software Engineer
+  Aspiring Software Engineer • System Thinker • Problem Solver
+</p>
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">Email</a> •
+  <a href="https://github.com/yourgithub">GitHub</a> •
+  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> •
+  <a href="https://codeforces.com/profile/yourhandle">Codeforces</a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Introduction
 
-I am a Computer Science & Engineering student with a strong interest in **problem solving, system-level thinking, and building reliable software**.  
-I enjoy exploring how things work under the hood — from algorithms and databases to scalable web systems.
+I am **Md Mahruf Alam**, a Computer Science & Engineering student with a strong interest in  
+**software systems, problem solving, and building reliable, scalable applications**.
 
-- 🎓 **CSE Student** at University of Barishal  
-- 🧑‍💻 **Competitive Programmer** — Codeforces *Pupil*  
-- 🌐 Experience in **Web Development** using HTML, CSS, JavaScript, and PHP  
-- 🗄️ Comfortable with **SQL / MySQL**, exploring deeper **Database Systems**  
-- 🧠 Interested in **Backend Engineering**, **Database Design**, and **LLM-based systems**  
-- 🔬 Research-oriented mindset — always learning, experimenting, and improving  
+I enjoy understanding how systems work internally — from algorithms and data structures  
+to databases, APIs and real-world software architecture.
+
+I am continuously learning, experimenting and refining my skills with the long-term goal of becoming a **skilled Software Engineer and Technologist**.
 
 ---
 
-## 🔗 Professional Profiles
+## 🎯 Areas of Interest
 
-<p align="center">
-  <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=jldAN67IAsrW&format=png&color=000000" width="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yh-am-in" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" width="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Yeamin-Talukder" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=AZOZNnY73haj&format=png&color=000000" width="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdyeamen611@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=tnnUFgHrPmR0&format=png&color=000000" width="42"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Codeforces • LinkedIn • GitHub • Email
-  </sub>
-</p>
+- Software Engineering & System Design  
+- Backend Development & APIs  
+- Database Systems & Data Modeling  
+- Competitive Programming & Algorithmic Thinking  
+- Web Technologies and Modern Tooling  
+- Exploring AI/LLM systems from an engineering perspective  
 
 ---
 
-## 🧰 Technical Skills
+## 🧑‍💻 Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### Programming Languages
+- C  
+- C++
+- C#
+- Java
+- Kotlin (Basics)
+- JavaScript
+- TypeScript
+- PHP  
+
+### Web & Application Development
+- HTML5, CSS3, TailwindCSS
+- JavaScript (ES6+, React, Next)  
+- Advanced Frontend Architecture  
+- REST-style Backend Logic
+- Node, Express
+
+### Databases
+- MySQL  
+- SQL fundamentals  
+- Database design concepts
+- MongoDB
+
+### Tools & Practices
+- Git & GitHub  
+- Linux / CLI basics  
+- Debugging & problem decomposition  
+- Clean code & documentation mindset  
 
 ---
 
-## 📊 Weekly Coding Activity
+## 🧠 Problem Solving & Competitive Programming
+
+- Active competitive programmer  
+- Regular practice on **Codeforces**  
+- Comfortable with:
+  - Arrays, Strings
+  - Recursion
+  - Sorting & Searching
+  - Basic Graph concepts (learning continuously)
+
+Competitive programming helps me:
+- Think logically under constraints  
+- Improve code correctness and efficiency  
+- Develop strong debugging habits  
+
+---
+
+## 🧪 Projects & Practical Work
+
+I enjoy turning concepts into working systems.
+
+**Types of projects I work on:**
+- University-level software systems  
+- Database-driven applications  
+- Web interfaces connected to backend logic  
+- Personal tools and experiments  
+
+> Detailed projects are showcased in my portfolio website and pinned repositories.
+
+---
+
+## 📊 Development Activity
 
 <p align="center">
-  <a href="https://wakatime.com/@b01ebb11-341e-4df8-8bf0-ed7074306e27">
-    <img src="https://wakatime.com/badge/user/b01ebb11-341e-4df8-8bf0-ed7074306e27.svg" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdmahrufalam&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yeamin-Talukder&color=blue" alt="Profile Views"/>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" />
+  </a>
 </p>
 
 ---
@@ -89,30 +126,42 @@ I enjoy exploring how things work under the hood — from algorithms and databas
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmahrufalam&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeamin-Talukder&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahrufalam&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Talukder&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📉 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-Talukder&theme=tokyo-night" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahrufalam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 🧭 Current Focus
+
+- Strengthening core CS fundamentals  
+- Building real-world, database-backed projects  
+- Improving backend and system-level thinking  
+- Writing clearer, maintainable code  
+- Preparing for internships and future research opportunities  
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I am open to:
+- Learning-oriented collaborations  
+- University or open-source projects  
+- Internships and junior-level opportunities  
+- Technical discussions and mentorship  
+
+If you believe we can build or learn something together, feel free to reach out.
+
+---
+
 <p align="center">
-  <b>Md Yeamin Talukder</b><br/>
-  <sub>Keep learning. Keep building. Keep improving.</sub>
+  <b>Md Mahruf Alam</b><br/>
+  <sub>Engineer in progress • Learning with purpose • Building with intent</sub>
 </p>
