@@ -1,83 +1,103 @@
-<!-- ===================== TOP BANNER (ANIMATED) ===================== -->
+<!-- ===================== ROBOTIC HUD BANNER (ANIMATED) ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0ea5e9,100:f59e0b&height=190&section=header&text=Md%20Mahruf%20Alam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Thinker%20%7C%20Problem%20Solver%20%7C%20Future%20Software%20Engineer&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0EA5E9,75:22C55E,100:F59E0B&height=210&section=header&text=Md_Mahruf_Alam&fontSize=54&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=Backend%20%7C%20Databases%20%7C%20System%20Design&descAlignY=62" />
 </p>
 
-<!-- ===================== TITLE + TYPING ANIMATION ===================== -->
-<h1 align="center">⚡ Md Mahruf Alam</h1>
-
+<!-- ===================== NAME: MULTI-LINE ROBOTIC TYPING ===================== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=CSE+Student+%40+University+of+Barishal;Backend+%26+Systems+Focused;Databases+%7C+APIs+%7C+Architecture;Competitive+Programmer+%7C+Always+Learning" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=650&color=0EA5E9&center=true&vCenter=true&width=900&lines=%5BBOOT%5D+Initializing+Developer+Profile...;%5BCORE%5D+Md+Mahruf+Alam+%28miniSOWAD%29;%5BMODULES%5D+Backend+%7C+DBMS+%7C+APIs+%7C+Architecture;%5BMODE%5D+Build+%E2%86%92+Debug+%E2%86%92+Optimize+%E2%86%92+Repeat" alt="Typing SVG" />
 </p>
 
-<!-- ===================== QUICK LINKS (ICON BADGES) ===================== -->
+<!-- ===================== NEON DIVIDER (ANIMATED) ===================== -->
+<p align="center">
+  <img width="92%" src="https://user-images.githubusercontent.com/74038190/212751381-3b8b5d84-55f4-4f1f-a2c5-8f5b4c7b9e1f.gif" />
+</p>
+
+<!-- ===================== QUICK LINKS (FIXED) ===================== -->
 <p align="center">
   <a href="mailto:baisakh2015@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22C55E" />
   </a>
-  <a href="https://github.com/mdmahrufalam">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/miniSOWAD">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=0EA5E9" />
   </a>
-  <a href="https://www.linkedin.com/in/md-mahruf-alam-sowad-397aaa309/?trk=opento_sprofile_goalscard">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-mahruf-alam-sowad-397aaa309/">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" />
   </a>
   <a href="https://leetcode.com/u/minisowad/">
-    <img src="https://img.shields.io/badge/Leetcode-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-0B1220?style=for-the-badge&logo=leetcode&logoColor=F59E0B" />
   </a>
-  <a href="helpful-narwhal-d8d23b.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=111827" />
+  <a href="https://helpful-narwhal-d8d23b.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22C55E" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdmahrufalam&style=flat-square&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/mdmahrufalam?style=flat-square&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/mdmahrufalam?style=flat-square&color=f59e0b" />
+  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&style=flat-square&color=22c55e" />
+  <img src="https://img.shields.io/github/followers/miniSOWAD?style=flat-square&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/miniSOWAD?style=flat-square&color=f59e0b" />
 </p>
 
 ---
 
-<!-- ===================== ABOUT CARD ===================== -->
-<div align="center">
+<!-- ===================== ROBOTIC PROFILE MODULE (CARD STYLE) ===================== -->
+<table align="center" width="100%">
+<tr>
+<td width="60%" valign="top">
 
-### 👋 About Me
+### 🧠 SYSTEM PROFILE
 
-</div>
+- **Name:** Md Mahruf Alam  
+- **Alias:** `miniSOWAD`  
+- **Role:** CSE Student — University of Barishal  
+- **Focus:** Backend • Databases • System Design  
+- **Goal:** Build real, reliable software systems (not just demos)
 
-> I’m **Md Mahruf Alam**, a **Computer Science & Engineering** student at **University of Barishal**.  
-> I like building **reliable systems** — APIs, databases and real projects that work in real life.  
-> I also practice **competitive programming** to sharpen logic and speed.
+### ⚙ ACTIVE OBJECTIVES
+
+- Strong CS core (DSA, OS, DBMS, Networking)  
+- Backend & API design (Node/Express + Next)  
+- Database modeling (MySQL / MongoDB)  
+- Better architecture & maintainability  
+- Exploring AI/LLM systems (engineering side)
+
+</td>
+
+<td width="40%" align="center" valign="top">
+  <img width="280" src="https://user-images.githubusercontent.com/74038190/216656976-1c1d7df8-5f23-4a1a-bb96-2b4d2cfaa4a7.gif" />
+  <br/>
+  <img width="280" src="https://user-images.githubusercontent.com/74038190/216655839-8b5d0b37-81c6-4d35-b2ed-3e07be1b68b4.gif" />
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ===================== “TABS” USING DETAILS ===================== -->
+<!-- ===================== INTERACTIVE TABS ===================== -->
 <details open>
-  <summary><b>🚀 What I’m building & learning</b></summary>
+  <summary><b>🧩 MODULES</b></summary>
 
-- Stronger CS core (DSA, OS, DBMS, Networking)
-- Backend & API design (Node/Express + Next)
-- Database modeling & management (MySQL/MongoDB)
-- System design mindset (clean architecture + maintainability)
-- Exploring AI/LLM systems from an engineering angle
+- **Backend Systems:** APIs, authentication flows, server logic  
+- **Databases:** schema design, queries, indexing basics  
+- **Engineering Practice:** debugging, clean code, documentation  
+- **Loop:** build → break → fix → upgrade  
 
 </details>
 
 <details>
-  <summary><b>🧠 Interests</b></summary>
+  <summary><b>🎯 INTERESTS</b></summary>
 
-- Software Engineering & System Design  
+- Software Engineering & Architecture  
 - Backend Development & APIs  
-- Databases & Data Modeling  
+- Database Systems & Data Modeling  
 - Competitive Programming  
-- Web Technologies & Tooling  
-- AI/LLM Systems (engineering side)
+- Web tools & modern workflows  
+- AI/LLM systems (engineering perspective)
 
 </details>
 
 <details>
-  <summary><b>🤝 Open to</b></summary>
+  <summary><b>🤝 OPEN TO</b></summary>
 
 - Learning-focused collaborations  
 - Open-source contributions  
@@ -88,8 +108,8 @@
 
 ---
 
-<!-- ===================== TECH STACK (CLEAN + ICONIC) ===================== -->
-<h2 align="center">🧰 Tech Stack</h2>
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">🧰 TECH MODULE</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,php,html,css,tailwind,react,nextjs,nodejs,express,mysql,mongodb,git,github,linux&perline=10" />
@@ -97,8 +117,8 @@
 
 ---
 
-<!-- ===================== STATS SECTION ===================== -->
-<h2 align="center">📊 Stats & Activity</h2>
+<!-- ===================== STATS + ACTIVITY ===================== -->
+<h2 align="center">📊 ANALYTICS DASHBOARD</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&hide_border=true&theme=tokyonight" />
@@ -109,50 +129,57 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-<!-- ===================== ACTIVITY GRAPH (ANIMATED LOOK) ===================== -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== WAKATIME (OPTIONAL) ===================== -->
-<h2 align="center">⏱ Weekly Coding</h2>
+<!-- ===================== EXTRA ANIMATION: CONTRIBUTION SNAKE ===================== -->
+<h2 align="center">🐍 CONTRIBUTION FLOW</h2>
 
 <p align="center">
-  <a href="[https://wakatime.com](https://wakatime.com/@e9ddcedf-1a2f-4b41-804d-71ed7dc27c98)">
-    <img src="https://wakatime.com/badge/user/miniSOWAD.svg" />
+  <img src="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- ===================== FEATURED PROJECTS (YOUR 2 BEST REPOS) ===================== -->
+<h2 align="center">🧪 FEATURED BUILDS</h2>
+
+<p align="center">
+  <a href="https://github.com/miniSOWAD?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=22C55E" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BU-Connect/UniversityBusTransportSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BU-Connect&repo=UniversityBusTransportSystem&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/miniSOWAD/bu-cse-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miniSOWAD&repo=bu-cse-frontend&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-<!-- ===================== FEATURED PROJECTS (PIN STYLE) ===================== -->
-<h2 align="center">🧪 Featured Work</h2>
+<!-- ===================== WAKATIME (FIXED LINK + BADGE FORMAT) ===================== -->
+<h2 align="center">⏱ WEEKLY CODING</h2>
 
 <p align="center">
-  <a href="[https://github.com/mdmahrufalam?tab=repositories](https://github.com/BU-Connect/UniversityBusTransportSystem)">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Replace repo links with your best pinned repos -->
-  <a href="[https://github.com/mdmahrufalam](https://github.com/miniSOWAD/BU-CSE)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmahrufalam&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mdmahrufalam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmahrufalam&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  <a href="https://wakatime.com/@e9ddcedf-1a2f-4b41-804d-71ed7dc27c98">
+    <img src="https://wakatime.com/badge/user/e9ddcedf-1a2f-4b41-804d-71ed7dc27c98.svg" />
   </a>
 </p>
 
 ---
 
-<!-- ===================== FUN FOOTER ===================== -->
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0ea5e9,100:111827&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,45:0EA5E9,100:0B1220&height=120&section=footer" />
 </p>
 
 <p align="center">
-  <b>Engineer in progress</b> • Learning with purpose • Building with intent
+  <b>Engineer in progress</b> • Build clean • Think in systems • Improve daily
 </p>
