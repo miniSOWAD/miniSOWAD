@@ -1,19 +1,19 @@
-<!-- ===================== ROBOTIC HUD BANNER (ANIMATED) ===================== -->
+<!-- =====================BANNER===================== -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0EA5E9,75:22C55E,100:F59E0B&height=210&section=header&text=Md_Mahruf_Alam&fontSize=54&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=Backend%20%7C%20Databases%20%7C%20System%20Design&descAlignY=62" />
 </p>
 
-<!-- ===================== NAME: MULTI-LINE ROBOTIC TYPING ===================== -->
+<!-- =====================TYPING===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=650&color=0EA5E9&center=true&vCenter=true&width=900&lines=%5BBOOT%5D+Initializing+Developer+Profile...;%5BCORE%5D+Md+Mahruf+Alam+%28miniSOWAD%29;%5BMODULES%5D+Backend+%7C+DBMS+%7C+APIs+%7C+Architecture;%5BMODE%5D+Build+%E2%86%92+Debug+%E2%86%92+Optimize+%E2%86%92+Repeat" alt="Typing SVG" />
 </p>
 
-<!-- ===================== NEON DIVIDER (ANIMATED) ===================== -->
+<!-- =====================NEON DIVIDER===================== -->
 <p align="center">
   <img width="92%" src="https://user-images.githubusercontent.com/74038190/212751381-3b8b5d84-55f4-4f1f-a2c5-8f5b4c7b9e1f.gif" />
 </p>
 
-<!-- ===================== QUICK LINKS (FIXED) ===================== -->
+<!-- =====================QUICK LINKS===================== -->
 <p align="center">
   <a href="mailto:baisakh2015@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22C55E" />
@@ -40,7 +40,7 @@
 
 ---
 
-<!-- ===================== ROBOTIC PROFILE MODULE (CARD STYLE) ===================== -->
+<!-- =====================PROFILE MODULE CARD===================== -->
 <table align="center" width="100%">
 <tr>
 <td width="60%" valign="top">
@@ -70,7 +70,7 @@
 
 ---
 
-<!-- ===================== INTERACTIVE TABS ===================== -->
+<!-- =====================TABS===================== -->
 <details open>
   <summary><b>🧩 MODULES</b></summary>
 
@@ -105,7 +105,7 @@
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- =====================TECH STACK===================== -->
 <h2 align="center">🧰 TECH MODULE</h2>
 
 <p align="center">
@@ -114,7 +114,7 @@
 
 ---
 
-<!-- ===================== STATS + ACTIVITY ===================== -->
+<!-- =====================STATS-ACTIVITY===================== -->
 <h2 align="center">📊 ANALYTICS DASHBOARD</h2>
 
 <p align="center">
@@ -132,7 +132,7 @@
 
 ---
 
-<!-- ===================== EXTRA ANIMATION: CONTRIBUTION SNAKE ===================== -->
+<!-- =====================ANIMATION SNAKE ===================== -->
 <h2 align="center">🐍 CONTRIBUTION FLOW</h2>
 
 <p align="center">
@@ -141,7 +141,7 @@
 
 ---
 
-<!-- ===================== FEATURED PROJECTS (YOUR 2 BEST REPOS) ===================== -->
+<!-- =====================FEATURED PROJECTS===================== -->
 <h2 align="center">🧪 FEATURED BUILDS</h2>
 
 <p align="center">
@@ -161,7 +161,7 @@
 
 ---
 
-<!-- ===================== WAKATIME (FIXED LINK + BADGE FORMAT) ===================== -->
+<!-- =====================WAKATIME===================== -->
 <h2 align="center">⏱ WEEKLY CODING</h2>
 
 <p align="center">
@@ -172,7 +172,7 @@
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- =====================FOOTER===================== -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,45:0EA5E9,100:0B1220&height=120&section=footer" />
 </p>
