@@ -1,167 +1,158 @@
+<!-- ===================== TOP BANNER (ANIMATED) ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmahrufalam/mdmahrufalam/main/cover.gif" alt="Cover Banner" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0ea5e9,100:f59e0b&height=190&section=header&text=Md%20Mahruf%20Alam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Thinker%20%7C%20Problem%20Solver%20%7C%20Future%20Software%20Engineer&descAlignY=58" />
 </p>
 
-<h1 align="center">Md Mahruf Alam</h1>
+<!-- ===================== TITLE + TYPING ANIMATION ===================== -->
+<h1 align="center">⚡ Md Mahruf Alam</h1>
 
 <p align="center">
-  <b>Computer Science & Engineering Student</b><br/>
-  University of Barishal
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=CSE+Student+%40+University+of+Barishal;Backend+%26+Systems+Focused;Databases+%7C+APIs+%7C+Architecture;Competitive+Programmer+%7C+Always+Learning" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ===================== QUICK LINKS (ICON BADGES) ===================== -->
+<p align="center">
+  <a href="mailto:baisakh2015@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mdmahrufalam">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-mahruf-alam-sowad-397aaa309/?trk=opento_sprofile_goalscard">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/minisowad/">
+    <img src="https://img.shields.io/badge/Leetcode-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="helpful-narwhal-d8d23b.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=111827" />
+  </a>
 </p>
 
 <p align="center">
-  Aspiring Software Engineer • System Thinker • Problem Solver
-</p>
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="https://github.com/yourgithub">GitHub</a> •
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> •
-  <a href="https://codeforces.com/profile/yourhandle">Codeforces</a>
+  <img src="https://komarev.com/ghpvc/?username=mdmahrufalam&style=flat-square&color=22c55e" />
+  <img src="https://img.shields.io/github/followers/mdmahrufalam?style=flat-square&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/mdmahrufalam?style=flat-square&color=f59e0b" />
 </p>
 
 ---
 
-## 👋 Introduction
+<!-- ===================== ABOUT CARD ===================== -->
+<div align="center">
 
-I am **Md Mahruf Alam**, a Computer Science & Engineering student with a strong interest in  
-**software systems, problem solving, and building reliable, scalable applications**.
+### 👋 About Me
 
-I enjoy understanding how systems work internally — from algorithms and data structures  
-to databases, APIs and real-world software architecture.
+</div>
 
-I am continuously learning, experimenting and refining my skills with the long-term goal of becoming a **skilled Software Engineer and Technologist**.
+> I’m **Md Mahruf Alam**, a **Computer Science & Engineering** student at **University of Barishal**.  
+> I like building **reliable systems** — APIs, databases and real projects that work in real life.  
+> I also practice **competitive programming** to sharpen logic and speed.
 
 ---
 
-## 🎯 Areas of Interest
+<!-- ===================== “TABS” USING DETAILS ===================== -->
+<details open>
+  <summary><b>🚀 What I’m building & learning</b></summary>
+
+- Stronger CS core (DSA, OS, DBMS, Networking)
+- Backend & API design (Node/Express + Next)
+- Database modeling & management (MySQL/MongoDB)
+- System design mindset (clean architecture + maintainability)
+- Exploring AI/LLM systems from an engineering angle
+
+</details>
+
+<details>
+  <summary><b>🧠 Interests</b></summary>
 
 - Software Engineering & System Design  
 - Backend Development & APIs  
-- Database Systems & Data Modeling  
-- Competitive Programming & Algorithmic Thinking  
-- Web Technologies and Modern Tooling  
-- Exploring AI/LLM systems from an engineering perspective  
+- Databases & Data Modeling  
+- Competitive Programming  
+- Web Technologies & Tooling  
+- AI/LLM Systems (engineering side)
+
+</details>
+
+<details>
+  <summary><b>🤝 Open to</b></summary>
+
+- Learning-focused collaborations  
+- Open-source contributions  
+- Internships / junior opportunities  
+- Technical discussions  
+
+</details>
 
 ---
 
-## 🧑‍💻 Technical Skills
-
-### Programming Languages
-- C  
-- C++
-- C#
-- Java
-- Kotlin (Basics)
-- JavaScript
-- TypeScript
-- PHP  
-
-### Web & Application Development
-- HTML5, CSS3, TailwindCSS
-- JavaScript (ES6+, React, Next)  
-- Advanced Frontend Architecture  
-- REST-style Backend Logic
-- Node, Express
-
-### Databases
-- MySQL  
-- SQL fundamentals  
-- Database design concepts
-- MongoDB
-
-### Tools & Practices
-- Git & GitHub  
-- Linux / CLI basics  
-- Debugging & problem decomposition  
-- Clean code & documentation mindset  
-
----
-
-## 🧠 Problem Solving & Competitive Programming
-
-- Active competitive programmer  
-- Regular practice on **Codeforces**  
-- Comfortable with:
-  - Arrays, Strings
-  - Recursion
-  - Sorting & Searching
-  - Basic Graph concepts (learning continuously)
-
-Competitive programming helps me:
-- Think logically under constraints  
-- Improve code correctness and efficiency  
-- Develop strong debugging habits  
-
----
-
-## 🧪 Projects & Practical Work
-
-I enjoy turning concepts into working systems.
-
-**Types of projects I work on:**
-- University-level software systems  
-- Database-driven applications  
-- Web interfaces connected to backend logic  
-- Personal tools and experiments  
-
-> Detailed projects are showcased in my portfolio website and pinned repositories.
-
----
-
-## 📊 Development Activity
+<!-- ===================== TECH STACK (CLEAN + ICONIC) ===================== -->
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdmahrufalam&color=blue" alt="Profile Views" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,php,html,css,tailwind,react,nextjs,nodejs,express,mysql,mongodb,git,github,linux&perline=10" />
+</p>
+
+---
+
+<!-- ===================== STATS SECTION ===================== -->
+<h2 align="center">📊 Stats & Activity</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=miniSOWAD&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<!-- ===================== ACTIVITY GRAPH (ANIMATED LOOK) ===================== -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== WAKATIME (OPTIONAL) ===================== -->
+<h2 align="center">⏱ Weekly Coding</h2>
+
+<p align="center">
+  <a href="[https://wakatime.com](https://wakatime.com/@e9ddcedf-1a2f-4b41-804d-71ed7dc27c98)">
+    <img src="https://wakatime.com/badge/user/miniSOWAD.svg" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+<!-- ===================== FEATURED PROJECTS (PIN STYLE) ===================== -->
+<h2 align="center">🧪 Featured Work</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmahrufalam&show_icons=true&theme=tokyonight" />
+  <a href="[https://github.com/mdmahrufalam?tab=repositories](https://github.com/BU-Connect/UniversityBusTransportSystem)">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahrufalam&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahrufalam&layout=compact&theme=tokyonight" />
+  <!-- Replace repo links with your best pinned repos -->
+  <a href="[https://github.com/mdmahrufalam](https://github.com/miniSOWAD/BU-CSE)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmahrufalam&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mdmahrufalam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmahrufalam&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 🧭 Current Focus
-
-- Strengthening core CS fundamentals  
-- Building real-world, database-backed projects  
-- Improving backend and system-level thinking  
-- Writing clearer, maintainable code  
-- Preparing for internships and future research opportunities  
-
----
-
-## 🤝 Collaboration & Opportunities
-
-I am open to:
-- Learning-oriented collaborations  
-- University or open-source projects  
-- Internships and junior-level opportunities  
-- Technical discussions and mentorship  
-
-If you believe we can build or learn something together, feel free to reach out.
-
----
+<!-- ===================== FUN FOOTER ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0ea5e9,100:111827&height=120&section=footer" />
+</p>
 
 <p align="center">
-  <b>Md Mahruf Alam</b><br/>
-  <sub>Engineer in progress • Learning with purpose • Building with intent</sub>
+  <b>Engineer in progress</b> • Learning with purpose • Building with intent
 </p>
