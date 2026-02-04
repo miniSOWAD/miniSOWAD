@@ -64,10 +64,7 @@
 </td>
 
 <td width="40%" align="center" valign="top">
-  <img width="280" src="https://user-images.githubusercontent.com/74038190/216656976-1c1d7df8-5f23-4a1a-bb96-2b4d2cfaa4a7.gif" />
-  <br/>
-  <img width="280" src="https://user-images.githubusercontent.com/74038190/216655839-8b5d0b37-81c6-4d35-b2ed-3e07be1b68b4.gif" />
-</td>
+  <img width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG51cmx3Z24zZWxtMmhncjUzOXMwNG5wdjY1Zms2anBpZnhoYnowNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6CZNCogaCL7d8HLTp3/giphy.gif"/>
 </tr>
 </table>
 
