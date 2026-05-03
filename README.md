@@ -109,7 +109,7 @@
 <h2 align="center">🧰 TECH MODULE</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,php,html,css,tailwind,react,nextjs,nodejs,express,mysql,mongodb,git,github,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,nestjs,php,html,css,tailwind,react,nextjs,nodejs,express,postman,flutter,dart,unity,blender,fortran,mysql,mongodb,git,github,linux&perline=10" />
 </p>
 
 ---
