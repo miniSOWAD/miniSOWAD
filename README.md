@@ -175,34 +175,88 @@
 
 ---
 
-<!-- =====================FEATURED PROJECTS===================== -->
-<h2 align="center">🧪 FEATURED BUILDS</h2>
+<!-- ==================== FEATURED BUILDS ==================== -->
 
-<p align="center">
-  <a href="https://github.com/miniSOWAD?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=22C55E" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3"/>
 
-<p align="center">
-  <a href="https://github.com/BU-Connect/UniversityBusTransportSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BU-Connect&repo=UniversityBusTransportSystem&theme=tokyonight&hide_border=true" />
+<div align="center">
+
+## 🧪 Featured Builds
+
+*Hand-picked projects that reflect what I love building*
+
+</div>
+
+<div align="center">
+
+| 🚌 University Bus Transport System | 🎓 BU CSE Frontend |
+|:---:|:---:|
+| [![BusSystem](https://github-readme-stats.vercel.app/api/pin/?username=BU-Connect&repo=UniversityBusTransportSystem&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/BU-Connect/UniversityBusTransportSystem) | [![CSEFrontend](https://github-readme-stats.vercel.app/api/pin/?username=miniSOWAD&repo=bu-cse-frontend&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/miniSOWAD/bu-cse-frontend) |
+| Real-time university transport tracking | Department portal & student interface |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/miniSOWAD?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/⭐%20View%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=6e40c9" />
   </a>
-  <a href="https://github.com/miniSOWAD/bu-cse-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miniSOWAD&repo=bu-cse-frontend&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <a href="https://github.com/miniSOWAD?tab=repositories&q=&type=public&language=&sort=">
+    <img src="https://img.shields.io/badge/🔭%20Explore%20Public%20Work-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=238636" />
   </a>
-</p>
+</div>
 
 ---
 
-<!-- =====================WAKATIME===================== -->
-<h2 align="center">⏱ WEEKLY CODING</h2>
+<!-- ==================== WAKATIME CODING TIME ==================== -->
 
-<p align="center">
+<div align="center">
+
+## ⏱️ Weekly Coding Activity
+
+*My editor never sleeps — here's the proof*
+
+</div>
+
+<div align="center">
   <a href="https://wakatime.com/@e9ddcedf-1a2f-4b41-804d-71ed7dc27c98">
-    <img src="https://wakatime.com/badge/user/e9ddcedf-1a2f-4b41-804d-71ed7dc27c98.svg" />
+    <img src="https://img.shields.io/badge/WakaTime-Profile-6e40c9?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=1a1b27" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://wakatime.com/@e9ddcedf-1a2f-4b41-804d-71ed7dc27c98">
+    <img src="https://wakatime.com/badge/user/e9ddcedf-1a2f-4b41-804d-71ed7dc27c98.svg?style=for-the-badge" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miniSOWAD&hide_border=true&theme=tokyonight&layout=compact&langs_count=10&range=last_7_days" width="60%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://wakatime.com/share/@miniSOWAD/languages.svg#gh-dark-mode-only" />
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+🕐  Coding Hours Breakdown (Last 7 Days)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Track live stats → wakatime.com/@miniSOWAD
+  Language trends, editor time & project breakdowns
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3"/>
 
 ---
 
