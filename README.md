@@ -33,9 +33,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&style=flat-square&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/miniSOWAD?style=flat-square&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/miniSOWAD?style=flat-square&color=f59e0b" />
+  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/miniSOWAD?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/miniSOWAD?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -116,15 +116,6 @@
 
 <!-- ===================== ANALYTICS DASHBOARD ===================== -->
 <h1 align="center">📊 GitHub Analytics Dashboard</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/miniSOWAD?label=Followers&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/stars/miniSOWAD?affiliations=OWNER&style=for-the-badge&color=yellow" />
-</p>
-
----
-
 <h2 align="center">🚀 Contribution Statistics</h2>
 
 <p align="center">
