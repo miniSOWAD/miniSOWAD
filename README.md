@@ -114,59 +114,64 @@
 
 ---
 
-<!-- ==================== ANALYTICS DASHBOARD ==================== -->
+<!-- ===================== ANALYTICS DASHBOARD ===================== -->
+<h1 align="center">📊 GitHub Analytics Dashboard</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/miniSOWAD?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/miniSOWAD?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+<h2 align="center">🚀 Contribution Statistics</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Performance" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=miniSOWAD&hide_border=true&theme=tokyonight&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+</p>
+
+---
+
+<h2 align="center">💻 Language Intelligence</h2>
+
 <div align="center">
-📊 Analytics Dashboard
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3&section=header"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miniSOWAD&theme=tokyonight" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miniSOWAD&theme=tokyonight" width="40%" />
 </div>
 
-🏆 GitHub Trophies
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=miniSOWAD&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
+---
 
-📈 Core Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=miniSOWAD&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=donut&hide_border=true&theme=tokyonight&langs_count=8&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&count_private=true" />
-</div>
+<h2 align="center">📈 Contribution Activity Graph</h2>
 
-📅 Contribution Graph
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true&area=true&area_color=6e40c9" />
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Journey" />
+</p>
 
-🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-snake-dark.svg" />
-  </picture>
-</div>
+---
 
-📊 Contribution Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miniSOWAD&theme=tokyonight" width="95%" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miniSOWAD&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miniSOWAD&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miniSOWAD&theme=tokyonight&utcOffset=6" width="32%" />
-</div>
+<h2 align="center">🏆 Achievement Metrics</h2>
 
-👁️ Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/miniSOWAD?style=for-the-badge&color=6e40c9&labelColor=1a1b27&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/miniSOWAD?style=for-the-badge&color=6e40c9&labelColor=1a1b27&label=TOTAL+STARS" />
-</div>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3&section=footer"/>
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miniSOWAD&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=miniSOWAD&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<h2 align="center">⚡ Productivity Radar</h2>
+
+<p align="center">
+  <img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miniSOWAD&theme=tokyonight&utcOffset=6" />
+</p>
+
+---
+
+<h3 align="center">🔥 Consistency • Innovation • Growth</h3>
 
 ---
 
