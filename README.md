@@ -105,12 +105,111 @@
 
 ---
 
-<!-- =====================TECH STACK===================== -->
-<h2 align="center">🧰 TECH MODULE</h2>
+<!-- ==================== TECH STACK ==================== -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,nestjs,php,html,css,tailwind,react,nextjs,nodejs,express,postman,flutter,dart,unity,blender,fortran,mysql,mongodb,git,github,linux&perline=10" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3"/>
+
+<div align="center">
+
+## 🧰 Tech Stack
+
+*Every tool I've wrestled with and won*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗣️ Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,php,dart,fortran&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔌 API & Dev Tools
+
+<img src="https://skillicons.dev/icons?i=postman,linux&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔀 Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📱 Mobile & Cross-Platform
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 Game Dev & 3D
+
+<img src="https://skillicons.dev/icons?i=unity,blender,cs&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 AI & Emerging Tools
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10" />
+
+> *Actively learning and integrating AI tools into my workflow*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3"/>
 
 ---
 
