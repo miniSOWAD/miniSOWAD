@@ -114,21 +114,59 @@
 
 ---
 
-<!-- =====================STATS-ACTIVITY===================== -->
-<h2 align="center">📊 ANALYTICS DASHBOARD</h2>
+<!-- ==================== ANALYTICS DASHBOARD ==================== -->
+<div align="center">
+📊 Analytics Dashboard
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3&section=header"/>
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=miniSOWAD&hide_border=true&theme=tokyonight" />
-</p>
+🏆 GitHub Trophies
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=miniSOWAD&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+📈 Core Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=miniSOWAD&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=donut&hide_border=true&theme=tokyonight&langs_count=8&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&count_private=true" />
+</div>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true" />
-</p>
+📅 Contribution Graph
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true&area=true&area_color=6e40c9" />
+</div>
+
+🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/miniSOWAD/miniSOWAD/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+📊 Contribution Metrics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miniSOWAD&theme=tokyonight" width="95%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miniSOWAD&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miniSOWAD&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miniSOWAD&theme=tokyonight&utcOffset=6" width="32%" />
+</div>
+
+👁️ Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=miniSOWAD&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/miniSOWAD?style=for-the-badge&color=6e40c9&labelColor=1a1b27&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/miniSOWAD?style=for-the-badge&color=6e40c9&labelColor=1a1b27&label=TOTAL+STARS" />
+</div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3&section=footer"/>
 
 ---
 
