@@ -49,7 +49,7 @@
 
 - **Name:** Md Mahruf Alam  
 - **Alias:** `miniSOWAD`  
-- **Role:** CSE Student — University of Barishal  
+- **Role:** CSE Student — University of Barishal (2023- )
 - **Focus:** Backend • Databases • System Design  
 - **Goal:** Build real, reliable software systems (not just demos)
 
