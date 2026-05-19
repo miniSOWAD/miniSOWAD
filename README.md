@@ -51,7 +51,7 @@
 - **Alias:** `miniSOWAD`  
 - **Role:** CSE Student — University of Barishal (2023- )
 - **Focus:** Backend • Databases • System Design  
-- **Goal:** Build real, reliable software systems (not just demos)
+- **Goal:** Build real, reliable software systems (not just Demos)
 
 ### ⚙ ACTIVE OBJECTIVES
 
