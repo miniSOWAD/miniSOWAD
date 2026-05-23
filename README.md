@@ -205,7 +205,7 @@
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10" />
 
-> *Actively learning and integrating AI tools into my workflow*
+> *Actively learning and integrating AI tools into my workflow everyday*
 
 </div>
 
