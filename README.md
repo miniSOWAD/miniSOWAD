@@ -89,7 +89,7 @@
 - Database Systems & Data Modeling  
 - Competitive Programming  
 - Web tools & modern workflows  
-- AI/LLM systems (engineering perspective)
+- AI/LLM systems (Engineering perspective)
 
 </details>
 
