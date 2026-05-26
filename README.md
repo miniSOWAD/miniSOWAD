@@ -98,7 +98,7 @@
 
 - Learning-focused collaborations  
 - Open-source contributions  
-- Internships / junior opportunities  
+- Internships / Junior opportunities  
 - Technical discussions  
 
 </details>
