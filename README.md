@@ -113,7 +113,7 @@
 
 ## 🧰 Tech Stack
 
-*Every tool I've wrestled with and won*
+*Every tool I've wrestled with and won so far*
 
 </div>
 
