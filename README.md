@@ -218,11 +218,6 @@
 <h2 align="center">🚀 Contribution Statistics and Productivity Radar</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&count_private=true&include_all_commits=true&theme=dark&border_radius=8&hide_border=false&custom_title=miniSOWAD's%20GitHub%20Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&langs_count=12&theme=dark&border_radius=8&hide_border=false" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=miniSOWAD&theme=dark&border_radius=8" />
 </p>
 <p align="center">
