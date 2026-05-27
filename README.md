@@ -217,6 +217,11 @@
 <h1 align="center">📊 GitHub Analytics Dashboard</h1>
 <h2 align="center">🚀 Contribution Statistics and Productivity Radar</h2>
 
+<p align="center"> 
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api?username=miniSOWAD&show_icons=true&theme=dark&border_radius=8" height="165" /> 
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&langs_count=12&theme=dark&border_radius=8" height="165" /> 
+</p>
+
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=miniSOWAD&theme=dark&border_radius=8" />
 </p>
