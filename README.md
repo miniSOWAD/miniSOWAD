@@ -215,7 +215,7 @@
 
 <!-- ===================== ANALYTICS DASHBOARD ===================== -->
 <h1 align="center">📊 GitHub Analytics Dashboard</h1>
-<h2 align="center">🚀 Contribution Statistics</h2>
+<h2 align="center">🚀 Contribution Statistics and Productivity Radar</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&count_private=true&include_all_commits=true&theme=dark&border_radius=8&hide_border=false&custom_title=miniSOWAD's%20GitHub%20Stats" />
@@ -257,18 +257,6 @@
 <p align="center">
   <img width="45%" src="https://github-profile-trophy.vercel.app/?username=miniSOWAD&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
-
----
-
-<h2 align="center">⚡ Productivity Radar</h2>
-
-<p align="center">
-  <img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miniSOWAD&theme=tokyonight&utcOffset=6" />
-</p>
-
----
-
-<h3 align="center">🔥 Consistency • Innovation • Growth</h3>
 
 ---
 
