@@ -213,31 +213,32 @@
 
 ---
 
-<!-- ===================== ANALYTICS DASHBOARD ===================== -->
+<!-- ===================== GITHUB ANALYTICS DASHBOARD ===================== -->
 
-<h1 align="center">📊 GitHub Analytics Dashboard</h1>
-<h3 align="center">🚀 Contribution Statistics & Productivity Radar</h3>
-
-<br>
-
-<!-- ===== MAIN STATS ===== -->
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile"
+    alt="miniSOWAD GitHub Stats"
+  />
 </p>
 
-<!-- ===== STREAK ===== -->
-
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=miniSOWAD&theme=tokyonight&hide_border=true" />
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10"
+    alt="miniSOWAD Top Languages"
+  />
 </p>
 
-<!-- ===== TROPHIES / GRADE STYLE ===== -->
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miniSOWAD&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img 
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com?user=miniSOWAD&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="miniSOWAD GitHub Streak"
+  />
 </p>
 
 ---
