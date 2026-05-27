@@ -214,20 +214,30 @@
 ---
 
 <!-- ===================== ANALYTICS DASHBOARD ===================== -->
+
 <h1 align="center">📊 GitHub Analytics Dashboard</h1>
-<h2 align="center">🚀 Contribution Statistics and Productivity Radar</h2>
+<h3 align="center">🚀 Contribution Statistics & Productivity Radar</h3>
+
+<br>
+
+<!-- ===== MAIN STATS ===== -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&count_private=true&include_all_commits=true&theme=dark&border_radius=8&hide_border=false&custom_title=miniSOWAD's%20GitHub%20Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&langs_count=12&theme=dark&border_radius=8&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=miniSOWAD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniSOWAD&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
+<!-- ===== STREAK ===== -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=miniSOWAD&theme=dark&border_radius=8" />
+  <img height="180" src="https://streak-stats.demolab.com?user=miniSOWAD&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- ===== TROPHIES / GRADE STYLE ===== -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miniSOWAD&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miniSOWAD&theme=github_dark&utcOffset=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miniSOWAD&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
