@@ -77,7 +77,7 @@
 - **Backend Systems:** APIs, Authentication flows, Server logic  
 - **Databases:** Schema design, queries, indexing basics  
 - **Engineering Practice:** debugging, clean code, documentation  
-- **Loop:** build → break → fix → upgrade  
+- **Loop:** Build → break → fix → upgrade  
 
 </details>
 
