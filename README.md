@@ -45,7 +45,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 🧠 SYSTEM PROFILE
+### 🧠 SYSTEM PROFILE OF
 
 - **Name:** Md Mahruf Alam  
 - **Alias:** `miniSOWAD`  
