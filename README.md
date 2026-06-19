@@ -361,5 +361,5 @@
 </p>
 
 <p align="center">
-  <b>Engineer in progress</b> • Build clean • Think in systems • Improve daily
+  <b>Engineer in progress</b> • Build clean • Think in systems • Improve Daily
 </p>
