@@ -59,7 +59,7 @@
 - Backend & API design (Node/Express + Next)  
 - Database modeling (MySQL / MongoDB)  
 - Better architecture & maintainability  
-- Exploring AI/LLM systems (Engineering Side)
+- Exploring AI/LLM Systems (Engineering Side)
 
 </td>
 
