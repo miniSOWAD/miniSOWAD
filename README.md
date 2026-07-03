@@ -74,7 +74,7 @@
 <details open>
   <summary><b>🧩 MODULES</b></summary>
 
-- **Backend Systems:** APIs, Authentication Flows, Server logic  
+- **Backend Systems:** APIs, Authentication flows, Server logic  
 - **Databases:** Schema design, Queries, indexing basics  
 - **Engineering Practice:** debugging, clean code, documentation  
 - **Loop:** Build → Break → fix → upgrade  
