@@ -287,7 +287,7 @@
 | 🚌 University Bus Transport System (BU Trace) | 🎓 BU CSE Frontend |
 |:---:|:---:|
 | [![BusSystem](https://github-readme-stats.vercel.app/api/pin/?username=BU-Connect&repo=UniversityBusTransportSystem&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/BU-Connect/UniversityBusTransportSystem) | [![CSEFrontend](https://github-readme-stats.vercel.app/api/pin/?username=miniSOWAD&repo=bu-cse-frontend&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/miniSOWAD/bu-cse-frontend) |
-| Real-time university transport tracking | Department portal & student interface |
+| Real-time University transport tracking | Department portal & student interface |
 
 </div>
 
