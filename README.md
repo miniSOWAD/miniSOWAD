@@ -278,7 +278,7 @@
 
 ## 🧪 Featured Builds
 
-*Hand-picked projects that reflect what I love building*
+*Hand-picked Projects that reflect what I love building*
 
 </div>
 
