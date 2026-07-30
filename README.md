@@ -121,7 +121,7 @@
 
 <div align="center">
 
-### 🗣️ Languages and Perks
+### 🗣️ Languages and perks
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,php,dart,fortran&perline=10" />
 
