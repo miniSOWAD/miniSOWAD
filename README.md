@@ -97,7 +97,7 @@
   <summary><b>🤝 OPEN TO</b></summary>
 
 - Learning-Focused Collaborations  
-- Open-source contributions  
+- Open-Source contributions  
 - Internships / Junior opportunities  
 - Technical discussions  
 
