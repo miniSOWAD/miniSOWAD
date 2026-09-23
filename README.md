@@ -117,9 +117,9 @@
 
 </div>
 
----
 
 <details>
+<summary><b>Open to Learn more</b></summary>
 
 <div align="center">
 
@@ -215,7 +215,6 @@
 
 </details>
 
----
 
 <!-- ===================== ANALYTICS DASHBOARD ===================== -->
 <h1 align="center">📊 GitHub Analytics Dashboard</h1>
