@@ -41,6 +41,9 @@
 ---
 
 <!-- =====================PROFILE MODULE CARD===================== -->
+
+<details>
+<summary><b>SEE PROFILE</b></summary>
 <table align="center" width="100%">
 <tr>
 <td width="60%" valign="top">
@@ -67,6 +70,7 @@
   <img width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG51cmx3Z24zZWxtMmhncjUzOXMwNG5wdjY1Zms2anBpZnhoYnowNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6CZNCogaCL7d8HLTp3/giphy.gif"/>
 </tr>
 </table>
+</details>
 
 ---
 
@@ -218,6 +222,8 @@
 
 <!-- ===================== ANALYTICS DASHBOARD ===================== -->
 <h1 align="center">📊 GitHub Analytics Dashboard</h1>
+<details>
+<summary><b>EXPAND</b></summary>
 <h2 align="center">🚀 Contribution Statistics and Productivity Radar</h2>
 
 <p align="center"> 
@@ -242,6 +248,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miniSOWAD&theme=tokyonight" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miniSOWAD&theme=tokyonight" width="40%" />
 </div>
+</details>
 
 ---
 
