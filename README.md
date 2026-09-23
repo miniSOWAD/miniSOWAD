@@ -119,6 +119,8 @@
 
 ---
 
+<details>
+
 <div align="center">
 
 ### 🗣️ Languages and perks
@@ -210,6 +212,8 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=3"/>
+
+</details>
 
 ---
 
