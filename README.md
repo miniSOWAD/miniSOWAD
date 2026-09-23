@@ -71,7 +71,7 @@
 ---
 
 <!-- =====================TABS===================== -->
-<details open>
+<details>
   <summary><b>🧩 MODULES</b></summary>
 
 - **Backend Systems:** APIs, Authentication Flows, Server Logic  
@@ -239,14 +239,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miniSOWAD&theme=tokyonight" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miniSOWAD&theme=tokyonight" width="40%" />
 </div>
-
----
-
-<h2 align="center">📈 Contribution Activity Graph</h2>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miniSOWAD&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Journey" />
-</p>
 
 ---
 
